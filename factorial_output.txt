@@ -1,0 +1,5 @@
+"expr"  "min"  "lq"  "mean"  "median"  "uq"  "max"  "neval"
+"loopy_factorial(20)"  7.5  9.3  113.628  11.1  12.9  9957.8  100
+"reducy_factorial(20)"  234.4  268.15  607.95  306.2  444.7  14046.9  100
+"funky_factorial(20)"  119.4  136.1  230.416  154.55  177.5  2917.1  100
+"memoizy_factorial(20)"  8.4  10.15  584.654  14.2  19.2  56831.9  100
